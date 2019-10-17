@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors | Academic</title>
+    <link>https://rkarts.github.io/academic-kickstart/authors/</link>
+      <atom:link href="https://rkarts.github.io/academic-kickstart/authors/index.xml" rel="self" type="application/rss+xml" />
+    <description>Authors</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>&amp;copy2019</copyright><lastBuildDate>Thu, 17 Oct 2019 12:21:13 -0400</lastBuildDate>
+    <image>
+      <url>https://rkarts.github.io/academic-kickstart/img/icon-192.png</url>
+      <title>Authors</title>
+      <link>https://rkarts.github.io/academic-kickstart/authors/</link>
+    </image>
+    
+    <item>
+      <title>Rafail Kartsioukas</title>
+      <link>https://rkarts.github.io/academic-kickstart/authors/rafail-kartsioukas/</link>
+      <pubDate>Thu, 17 Oct 2019 12:21:13 -0400</pubDate>
+      <guid>https://rkarts.github.io/academic-kickstart/authors/rafail-kartsioukas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Zheng Gao and Stilian Stoev</title>
+      <link>https://rkarts.github.io/academic-kickstart/authors/zheng-gao-and-stilian-stoev/</link>
+      <pubDate>Thu, 17 Oct 2019 12:21:13 -0400</pubDate>
+      <guid>https://rkarts.github.io/academic-kickstart/authors/zheng-gao-and-stilian-stoev/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://rkarts.github.io/academic-kickstart/authors/admin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://rkarts.github.io/academic-kickstart/authors/admin/</guid>
+      <description>&lt;p&gt;Rafail Kartsioukas is a Ph.D. student in Statistics at the University of Michigan. He obtained a BSc in Mathematics from the National and Kapodistrian University of Athens, before moving to the United States to pursue a doctorate diploma in Statistics. His research interests include, but are not limited to, stochastic processes, anomaly detection and probability theory.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
